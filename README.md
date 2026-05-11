@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm valani</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A self-taught full-stack developer from France, with a Bachelor’s Degree in Computer Science</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=valanidev&label=Profile%20views&color=0e75b6&style=flat" alt="valanidev" /> </p>
 
